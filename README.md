@@ -5,3 +5,6 @@
 //completed section 4.2.5
 //completed section 4.2.6
 //completed section 4.2.7 refactoring code.
+//completed section 4.2.8 Address Usability Concerns.
+// **Completed issue #2Capture Form Data**
+//Merging with develop branch
